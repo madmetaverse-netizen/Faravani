@@ -5,7 +5,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="Faravani"
+        android:label="فراوانی"
         android:supportsRtl="true"
         android:theme="@android:style/Theme.Material.Light.NoActionBar"
         android:usesCleartextTraffic="true">
@@ -23,5 +23,4 @@
 
     </application>
 
-</m
-    anifest>
+</manifest>
